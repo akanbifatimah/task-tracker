@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9fcb70d.chunk.css",
+    "main.js": "/static/js/main.ddc4a75a.chunk.js",
+    "main.js.map": "/static/js/main.ddc4a75a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb96090b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb96090b.js.map",
+    "static/js/2.fb764ca5.chunk.js": "/static/js/2.fb764ca5.chunk.js",
+    "static/js/2.fb764ca5.chunk.js.map": "/static/js/2.fb764ca5.chunk.js.map",
+    "static/js/3.3768730f.chunk.js": "/static/js/3.3768730f.chunk.js",
+    "static/js/3.3768730f.chunk.js.map": "/static/js/3.3768730f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f9fcb70d.chunk.css.map": "/static/css/main.f9fcb70d.chunk.css.map",
+    "static/js/2.fb764ca5.chunk.js.LICENSE.txt": "/static/js/2.fb764ca5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/michael-dziedzic-gEN5Btvf2Eg-unsplash.424319a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb96090b.js",
+    "static/js/2.fb764ca5.chunk.js",
+    "static/css/main.f9fcb70d.chunk.css",
+    "static/js/main.ddc4a75a.chunk.js"
+  ]
+}
